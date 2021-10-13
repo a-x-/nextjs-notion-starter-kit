@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Tesla',
-  domain: 'teslawiki.ru',
+  domain: 'tesla-wiki.vercel.app/',
   author: 'Russian Tesla Community',
 
   // open graph metadata (optional)
