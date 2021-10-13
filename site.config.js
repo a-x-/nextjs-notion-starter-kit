@@ -47,5 +47,21 @@ module.exports = {
   //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
-  pageUrlOverrides: null
+  pageUrlOverrides: {
+    // '/app-and-acc': ''
+    '/modem': '80e3b58a33274bc8a30b454e05a941bb', // no go
+    '/plate': '1b2489e48b034625b96f3408a444f649',
+    '/retro': '623efa05f04944a2bdae47886a34bef1',
+    '/acdc': '0bcb2bd3841242ccb2f702cc6adee243',
+    '/certs': '8520bae441cd484e903723dc6aa8bde6',
+    '/reset': 'e89d8b3ef2dc407fa89905fd22e7e262',
+    '/m3': '26bd09a54f6e4214a52335caf315118d', // go: manual3
+    '/wtf': 'f23be42e3a8d4480a63a3636b853694d', // no go
+    '/buy': '8887ffd127d846738bd71440d6f79679',
+    '/musk': 'bb282172b3224f5ca8599492b81e287d', // go: support
+    '/kents': 'c6903f59d69b4d199aca57d9801bd7d0', // go: tesla_kents
+    '/chats': '9de15d9408f74315beabb32e1933d18c',
+    '/wires': '26b08e230b1c439da35d829a3fdd380b',
+    '/chargers': '8d7ad5f77349496fb3a6251cd7420c57'
+  }
 }
